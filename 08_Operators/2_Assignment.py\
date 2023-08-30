@@ -1,0 +1,9 @@
+# num1 = num2 = 1334
+# print(num1,num2)
+
+# num1, num2, num3 = 12,13,14
+# print(num1,num2,num3)
+
+a = 100
+a**=2
+print(a)

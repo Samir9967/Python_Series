@@ -10,5 +10,13 @@ print(num)
 # print(num)
 
                     # count()
-total_count = num.count(12)
-print(total_count)
+# total_count = num.count(12)
+# print(total_count)
+
+                         # index()
+# index_num = num.index(89)
+# print(index_num)
+
+                          # remove()
+num.remove(12)
+print(num)

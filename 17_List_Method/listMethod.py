@@ -33,5 +33,17 @@ print(num)
 # print(list1)
 
                           # reverse()
-num.reverse()
-print(num)
+# num.reverse()
+# print(num)
+
+                           # sort()
+# num.sort()      #------------> this will print ascending to descending order
+# print(num)                         
+# list3 = ["samir","maharana",1,56,7,"aditi"]
+# list3.sort()
+# print(list3)
+
+                           # clear()
+# num.clear()
+# print(num)
+

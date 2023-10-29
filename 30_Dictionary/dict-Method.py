@@ -27,7 +27,28 @@
 # print(d)
 
                                      # keys()
-d = {1:'sam',2:"adu",3:'True',3:False}
-# print(d.keys())
-for i in d.keys():
-    print(i)
+# d = {1:'sam',2:"adu",3:'True',3:False}
+# # print(d.keys())
+# for i in d.keys():
+#     print(i)
+
+                                   # setdefault()
+# d = {1:'sam',2:"adu",3:'True',3:False}
+# d.setdefault(4,'love u adu')
+# print(d)
+
+# d1 = {1:'samir',2:'adu',3:'love u adu'}
+# d2 = {4:'panda',5:'shemdi'}
+# d1.update(d2)
+# print(d1)
+
+                                      # copy()
+# d1 = {1:'samir',2:'adu',3:'love u adu'}
+# d2 = {}
+# d2 = d1.copy()
+# print(d1,d2)
+
+                                         # clear()
+d1 = {1:'samir',2:'adu',3:'love u adu'}
+d1.clear()
+print(d1)
